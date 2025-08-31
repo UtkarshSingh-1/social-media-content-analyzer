@@ -1,0 +1,24 @@
+{
+  "name": "social-media-content-analyzer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer": "^2.4.1",
+    "framer-motion": "^10.12.16",
+    "motion": "^12.23.12",
+    "pdfjs-dist": "^4.1.392",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tesseract.js": "^5.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.2"
+  }
+}
