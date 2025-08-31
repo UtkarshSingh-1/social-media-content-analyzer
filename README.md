@@ -3,6 +3,8 @@
 
 The Social Media Content Analyzer is a simple, practical web app designed to help users upload documents (PDFs and images), extract their text, and get actionable insights for improving social media engagement. Built with React, Framer Motion, Tesseract.js, and pdf.js, this app demonstrates a clean UI, smooth animations, and real-world functionality.
 
+Live Preview : https://social-media-content-analyzer-henna.vercel.app/
+
 ✨ Features
 
 ✅ Document Upload
