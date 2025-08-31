@@ -1,5 +1,3 @@
-HEAD
-See README in project root for instruction
 # social-media-content-analyzer
 📄 Social Media Content Analyzer
 
@@ -50,7 +48,7 @@ npm or yarn
 
 Installation
 # Clone this repo
-git clone https://github.com/your-username/social-media-content-analyzer.git
+git clone https://github.com/UtkarshSingh-1/social-media-content-analyzer.git
 cd social-media-content-analyzer
 
 # Install dependencies
@@ -95,4 +93,4 @@ If you have questions or feedback, feel free to reach out:
 Email: kshatriyautkarsh404@gmail.com
 
 GitHub: UtkarshSingh-1
-61ae754884a7570ac12cdca5905bb01bb6cf5a4d
+
